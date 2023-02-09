@@ -2,4 +2,4 @@
 
 Testando os conhecimentos em html e css criando uma pagina de captura.
 
-https://felipepdev.github.io/PaginaDeCaptura/
+https://felipepdev.github.io/Pagina-de-Captura/
